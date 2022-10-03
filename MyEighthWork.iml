@@ -7,5 +7,32 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Desktop/Новая папка (3)" />
+          <root url="file://$USER_HOME$/Desktop/Новая папка (2)" />
+          <root url="file://$USER_HOME$/Desktop/Новая папка" />
+          <root url="jar://$USER_HOME$/Desktop/gson-2.9.1.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/kotlin-stdlib-1.7.10.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/okhttp-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/okio-jvm-3.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Desktop/jackson-core-2.14.0-rc1-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Desktop/jars" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Desktop/jars" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
